@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Arsha Srilath",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d arsha-srilatha/portfolio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsha-srilatha/portfolio.git"
+  },
+  "keywords": [
+    "Portfolio",
+    "Resume"
+  ],
+  "author": "Arsha S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsha-srilatha/portfolio/issues"
+  },
+  "homepage": "https://github.com/arsha-srilatha/portfolio#readme",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
